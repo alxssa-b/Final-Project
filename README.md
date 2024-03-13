@@ -11,7 +11,7 @@ The aim of this project is to create a miniature (and highly simplistic) account
 A few additional things that would be nice:
 - Differentiate AJEs from regular JEs
 - "help" command that shows commands available for use
-- 
+- Customize chart of accounts
 
 I'm opting to use C for this program because this project and its functionality will be largely procedural and I feel no need to go out of my way with OOP. 
 
