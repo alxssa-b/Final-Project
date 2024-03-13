@@ -14,3 +14,5 @@ A few additional things that would be nice:
 - 
 
 I'm opting to use C for this program because this project and its functionality will be largely procedural and I feel no need to go out of my way with OOP. 
+
+Let's see how this goes! I'm very excited. I'll have to add a lot here later though. 
