@@ -1,7 +1,7 @@
 # README - CS50 Final Project
-## Command Line General Ledger
+## Basic General Ledger API
 
-The aim of this project is to create a miniature (and highly simplistic) accounting software program that is accessed via the command line. TBH, I'm still not sure what all I'm doing here. I'd like to have the following functionalities:
+The aim of this project is to create a miniature (and highly simplistic) accounting web app that allows for posting entries, generating balance sheets, and viewing income statemnets. TBH, I'm still not sure what all I'm doing here. I'd like to have the following functionalities:
 
 1. View the Chart of Accounts (standard CoA by default)
 2. Post a financial transaction entry
@@ -9,10 +9,9 @@ The aim of this project is to create a miniature (and highly simplistic) account
 4. Generate income statement report (selecting start/end date)
 
 A few additional things that would be nice:
-- Differentiate AJEs from regular JEs
-- "help" command that shows commands available for use
+- Differentiate AJEs from regular JEs, link
 - Customize chart of accounts
 
-I'm opting to use C for this program because this project and its functionality will be largely procedural and I feel no need to go out of my way with OOP. 
-
 Let's see how this goes! I'm very excited. I'll have to add a lot here later though. 
+
+Will require use of sqlite3. 
